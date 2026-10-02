@@ -1780,58 +1780,89 @@
     "officer": "-",
     "phone": "-"
   }
+ 
   {
-    "경찰서": "서울송파경찰서",[span_0](start_span)[span_0](end_span)
-    "신고인": "장수원",
-    "개최장소": "올림픽로 393 잠실 래미안 아이파크 앞 출입구 좌우 인도",[span_1](start_span)[span_1](end_span)
-    "접수일시": "2026-10-02 09:30",[span_2](start_span)[span_2](end_span)
-    "담당정보관": "이동규",[span_3](start_span)[span_3](end_span)
-    "연락처": "010-3265-2648",[span_4](start_span)[span_4](end_span)
-    "비고": ""
+    "id": 1,
+    "branch": "",
+    "docNo": "",
+    "company": "잠실 래미안 아이파크",
+    "location": "올림픽로 393 잠실 래미안 아이파크 앞 출입구 좌우 인도",
+    "period": "",
+    "agency": "서울송파경찰서",
+    "date": "2026-10-02 09:30",
+    "reporter": "장수원",
+    "officer": "이동규",
+    "phone": "010-3265-2648",
+    "note": ""
   },
   {
-    "경찰서": "서울영등포경찰서",[span_5](start_span)[span_5](end_span)
-    "신고인": "한지수",
-    "개최장소": "영등포구 여의동로 213 금호리체시아 앞 인도",[span_6](start_span)[span_6](end_span)
-    "접수일시": "2026-10-02 10:20",[span_7](start_span)[span_7](end_span)
-    "담당정보관": "김창훈",[span_8](start_span)[span_8](end_span)
-    "연락처": "010-8882-4820",[span_9](start_span)[span_9](end_span)
-    "비고": ""
+    "id": 2,
+    "branch": "",
+    "docNo": "",
+    "company": "금호리체시아",
+    "location": "영등포구 여의동로 213 금호리체시아 앞 인도",
+    "period": "",
+    "agency": "서울영등포경찰서",
+    "date": "2026-10-02 10:20",
+    "reporter": "한지수",
+    "officer": "김창훈",
+    "phone": "010-8882-4820",
+    "note": ""
   },
   {
-    "경찰서": "서울강남경찰서",[span_10](start_span)[span_10](end_span)
-    "신고인": "장수원",
-    "개최장소": "강남구 삼성로120길 16-49 앞",[span_11](start_span)[span_11](end_span)
-    "접수일시": "2026-10-02 10:44",[span_12](start_span)[span_12](end_span)
-    "담당정보관": "성진태",
-    "연락처": "010-4659-3626",
-    "비고": "후순위"
+    "id": 3,
+    "branch": "",
+    "docNo": "",
+    "company": "",
+    "location": "강남구 삼성로120길 16-49 앞",
+    "period": "",
+    "agency": "서울강남경찰서",
+    "date": "2026-10-02 10:44",
+    "reporter": "장수원",
+    "officer": "성진태",
+    "phone": "010-4659-3626",
+    "note": "후순위"
   },
   {
-    "경찰서": "서울마포경찰서",[span_13](start_span)[span_13](end_span)
-    "신고인": "한지수",
-    "개최장소": "양화로 45 앞 인도상",[span_14](start_span)[span_14](end_span)
-    "접수일시": "2026-10-02 11:15",[span_15](start_span)[span_15](end_span)
-    "담당정보관": null,
-    "연락처": null,
-    "비고": ""
+    "id": 4,
+    "branch": "",
+    "docNo": "",
+    "company": "",
+    "location": "양화로 45 앞 인도상",
+    "period": "",
+    "agency": "서울마포경찰서",
+    "date": "2026-10-02 11:15",
+    "reporter": "한지수",
+    "officer": null,
+    "phone": null,
+    "note": ""
   },
   {
-    "경찰서": "서울강서경찰서",[span_16](start_span)[span_16](end_span)
-    "신고인": "성경민",
-    "개최장소": "공항대로 165 원그로브 A동 일대 앞 구간",[span_17](start_span)[span_17](end_span)
-    "접수일시": "2026-10-02 13:24",[span_18](start_span)[span_18](end_span)
-    "담당정보관": "박재웅",[span_19](start_span)[span_19](end_span)
-    "연락처": "010-5495-2625",[span_20](start_span)[span_20](end_span)
-    "비고": ""
+    "id": 5,
+    "branch": "",
+    "docNo": "",
+    "company": "원그로브",
+    "location": "공항대로 165 원그로브 A동 일대 앞 구간",
+    "period": "",
+    "agency": "서울강서경찰서",
+    "date": "2026-10-02 13:24",
+    "reporter": "성경민",
+    "officer": "박재웅",
+    "phone": "010-5495-2625",
+    "note": ""
   },
   {
-    "경찰서": "서울양천경찰서",[span_21](start_span)[span_21](end_span)
-    "신고인": "성경민",
-    "개최장소": "목동중앙로 7길 32",[span_22](start_span)[span_22](end_span)
-    "접수일시": "2026-10-02 14:18",[span_23](start_span)[span_23](end_span)
-    "담당정보관": "박철범",[span_24](start_span)[span_24](end_span)
-    "연락처": "010-8643-2567",[span_25](start_span)[span_25](end_span)
-    "비고": "후순위"
+    "id": 6,
+    "branch": "",
+    "docNo": "",
+    "company": "",
+    "location": "목동중앙로 7길 32",
+    "period": "",
+    "agency": "서울양천경찰서",
+    "date": "2026-10-02 14:18",
+    "reporter": "성경민",
+    "officer": "박철범",
+    "phone": "010-8643-2567",
+    "note": "후순위"
   }
 ]
